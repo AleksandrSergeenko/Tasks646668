@@ -1,0 +1,15 @@
+C:\Users\termi\Desktop\Tasks646668\bin\Debug\net7.0\Tasks646668.exe
+C:\Users\termi\Desktop\Tasks646668\bin\Debug\net7.0\Tasks646668.deps.json
+C:\Users\termi\Desktop\Tasks646668\bin\Debug\net7.0\Tasks646668.runtimeconfig.json
+C:\Users\termi\Desktop\Tasks646668\bin\Debug\net7.0\Tasks646668.dll
+C:\Users\termi\Desktop\Tasks646668\bin\Debug\net7.0\Tasks646668.pdb
+C:\Users\termi\Desktop\Tasks646668\obj\Debug\net7.0\Tasks646668.csproj.AssemblyReference.cache
+C:\Users\termi\Desktop\Tasks646668\obj\Debug\net7.0\Tasks646668.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\termi\Desktop\Tasks646668\obj\Debug\net7.0\Tasks646668.AssemblyInfoInputs.cache
+C:\Users\termi\Desktop\Tasks646668\obj\Debug\net7.0\Tasks646668.AssemblyInfo.cs
+C:\Users\termi\Desktop\Tasks646668\obj\Debug\net7.0\Tasks646668.csproj.CoreCompileInputs.cache
+C:\Users\termi\Desktop\Tasks646668\obj\Debug\net7.0\Tasks646668.dll
+C:\Users\termi\Desktop\Tasks646668\obj\Debug\net7.0\refint\Tasks646668.dll
+C:\Users\termi\Desktop\Tasks646668\obj\Debug\net7.0\Tasks646668.pdb
+C:\Users\termi\Desktop\Tasks646668\obj\Debug\net7.0\Tasks646668.genruntimeconfig.cache
+C:\Users\termi\Desktop\Tasks646668\obj\Debug\net7.0\ref\Tasks646668.dll
